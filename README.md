@@ -1,5 +1,5 @@
 # udaaharan
-Examples for public refrence
+Examples for public reference
 
 ## Example 1:
 An example to combine Java's SimpleHTTP Server and J2HTML. This is for the backend developers and Java lovers who have been searching for framework to solve the issue to keeping seprate HTML, JS and CSS files. All that can just be put under resources folder. And yet developer doesn't need to keep HTML files. One can simply generate beautiful HTML pages just by writing Core Java code.
